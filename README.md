@@ -1,4 +1,4 @@
-# Student from to store data
+# Student form to store data
 > Stores Students Data
 
 
